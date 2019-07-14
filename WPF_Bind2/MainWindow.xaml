@@ -1,0 +1,9 @@
+﻿<Window x:Class="WPF_Bind2.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="MainWindow" Height="350" Width="525">
+    <Grid Name="grid1">
+        <TextBox HorizontalAlignment="Left" Height="36" Margin="72,67,0,0" TextWrapping="Wrap" Text="{Binding Path=Name}" VerticalAlignment="Top" Width="338"/>
+
+    </Grid>
+</Window>

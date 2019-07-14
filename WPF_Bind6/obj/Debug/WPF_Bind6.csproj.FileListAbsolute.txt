@@ -1,0 +1,14 @@
+E:\VS Forms\WPF_Bind\WPF_Bind6\bin\Debug\WPF_Bind6.exe.config
+E:\VS Forms\WPF_Bind\WPF_Bind6\bin\Debug\WPF_Bind6.exe
+E:\VS Forms\WPF_Bind\WPF_Bind6\bin\Debug\WPF_Bind6.pdb
+E:\VS Forms\WPF_Bind\WPF_Bind6\obj\Debug\MainWindow.baml
+E:\VS Forms\WPF_Bind\WPF_Bind6\obj\Debug\MainWindow.g.cs
+E:\VS Forms\WPF_Bind\WPF_Bind6\obj\Debug\App.g.cs
+E:\VS Forms\WPF_Bind\WPF_Bind6\obj\Debug\WPF_Bind6_MarkupCompile.cache
+E:\VS Forms\WPF_Bind\WPF_Bind6\obj\Debug\WPF_Bind6.g.resources
+E:\VS Forms\WPF_Bind\WPF_Bind6\obj\Debug\WPF_Bind6.Properties.Resources.resources
+E:\VS Forms\WPF_Bind\WPF_Bind6\obj\Debug\WPF_Bind6.csproj.GenerateResource.Cache
+E:\VS Forms\WPF_Bind\WPF_Bind6\obj\Debug\WPF_Bind6.exe
+E:\VS Forms\WPF_Bind\WPF_Bind6\obj\Debug\WPF_Bind6.pdb
+E:\VS Forms\WPF_Bind\WPF_Bind6\bin\Debug\data.xml
+E:\VS Forms\WPF_Bind\WPF_Bind6\obj\Debug\WPF_Bind6_Content.g.cs

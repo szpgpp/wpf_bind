@@ -1,0 +1,13 @@
+E:\VS Forms\WPF_Bind\WPF_Bind2\bin\Debug\WPF_Bind2.exe.config
+E:\VS Forms\WPF_Bind\WPF_Bind2\bin\Debug\WPF_Bind2.exe
+E:\VS Forms\WPF_Bind\WPF_Bind2\bin\Debug\WPF_Bind2.pdb
+E:\VS Forms\WPF_Bind\WPF_Bind2\obj\Debug\MainWindow.baml
+E:\VS Forms\WPF_Bind\WPF_Bind2\obj\Debug\MainWindow.g.cs
+E:\VS Forms\WPF_Bind\WPF_Bind2\obj\Debug\App.g.cs
+E:\VS Forms\WPF_Bind\WPF_Bind2\obj\Debug\WPF_Bind2_MarkupCompile.cache
+E:\VS Forms\WPF_Bind\WPF_Bind2\obj\Debug\WPF_Bind2.g.resources
+E:\VS Forms\WPF_Bind\WPF_Bind2\obj\Debug\WPF_Bind2.Properties.Resources.resources
+E:\VS Forms\WPF_Bind\WPF_Bind2\obj\Debug\WPF_Bind2.csproj.GenerateResource.Cache
+E:\VS Forms\WPF_Bind\WPF_Bind2\obj\Debug\WPF_Bind2.exe
+E:\VS Forms\WPF_Bind\WPF_Bind2\obj\Debug\WPF_Bind2.pdb
+E:\VS Forms\WPF_Bind\WPF_Bind2\obj\Debug\WPF_Bind2.csprojResolveAssemblyReference.cache
